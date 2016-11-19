@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
+
+  <head>
+    <title> </title>
+    <link rel="stylesheet" href="style/page_style.css" type="text/css"/>
+    <script type="text/javascript" src="style/fonctionalites.js"></script>
+    <meta charset="utf-8"/>
+    <meta name="viewport" id="jb-viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=0" />
+
+    
+    <!-- START OPEN GRAPH TAGS-->
+    <meta property="og:title" content="Juicebox Gallery" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:description" content="" />
+    <!-- END OPEN GRAPH TAGS-->
+    
+  </head>
+
+  <body>
+      <div id="mySidenav" class="sidenav">
+          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+          <a href="#box1">Théorie</a>
+          <a href="#box2">Constructeur</a>
+          <a href="galerie.html">Galerie</a>
+      </div>
+      
+      <div id="page_utile" style="width: 850px;"  align:"center">
+       <div id="box1">
+       <span style="font-size:30px;cursor:pointer" onclick="openNav()">☰</span>
+       <div id="entete">
+          <b>Ensembles de Julia</b>
+         <i><div id="sous_titre">Gaston Julia (1893 - 1978)</div></i>
+       </div id="entete">
+       
+       <div id="theorie">
+           Un ensemble de Julia est la frontière de l'ensemble des points `z_0` complexes tels que, la suite `z_{n+1}=f(z_n)` est bornée. La fonction f est telle que : `f(z)=h(z)+c`.</br></br>
+           Les ensembles de Julia sont indissociables des ensembles de Fatou découverts par Pierre Fatou (1878-1929). En effet, en notant J un ensemble de Julia et et F l'ensemble de Fatou associé : `J nn F=CC` et `J uu F = \emptyset`. L'ensemble de Julia est un ensemble tel qu'une légère modification du point `z_0` entraîne de grandes modifications de la suite de l'itération. Contrairement, l'ensemble de Fatou est tel que de légères variations du point de départ sont sans grand effet sur la suite de l'itération. </br></br>
+           Le plan complexe est donc séparable en deux ensemble, l'un stable - ensemble de Fatou - l'autre, chaotique - ensemble de Julia.<a href="https://fr.wikipedia.org/wiki/Ensemble_de_Julia" class="info"target="_blank">Plus d'information</a>
+       </div>
+       </div>
+       
+       <div id="box2">
+           <span style="font-size:30px;cursor:pointer" onclick="openNav()">☰</span>
+       <div id="colonne">
+         <b> 
+             <div id="titre"> Paramètres du tracé :</div>
+         </b>
+         <div id="parametrage">
+             <i>
+	     <center><p>-1 &#60; Re &#60; 1 et  -1 &#60; Im &#60; 1</p></center>
+             <ul style="list-style-type:disc">
+               <li>Constante : 
+               <input type="text" name="constante" id="real" size="4" defaultValue="0"> + i <input type="text" name="constante" id="imag" size="4" height="10px" defaultValue="0"></li><br/>
+               <li>Couleur : 
+                <select name="couleur" id="color_number">
+                  <option value = "1">Noir et blanc</option>
+                  <option value = "2">Rouge</option>
+                  <option value = "3">Vert</option>
+                  <option value = "4">Bleu</option>
+                </select></li><br/>
+                <li><label>Nombre d'itération : <input type="number" defaultValue="50" name="nb_iterations" id = "interatition" min="1" max="1000" step="1"></label></li><br/>
+              </ul>
+              </i>
+              <br/>
+             </ul>
+	     <span style = "padding-left: 130px">
+	 		<button onclick = "traitement()" >Submit</button>   
+	     </span>
+	     <p><i><font size = "2">Essaiez-vous avec: -0.8 + i 0.156 et 1000 itérarions</font></i></p>
+	     <a id = "downloadimage"class="info" style = "float:left" href = "style/initial.png" download="style/initial.png">Téléchargez votre fractal</a>
+
+         </div class="parametrage">
+       </div> 
+
+       <div id="affichage">
+           <div id="image_affichage">
+                <center><img id = "imagejulia" name = "imagejulia" align="middle" width = "400" heigth = "400" src = "style/initial.png" style="margin:auto"/>
+                </center>
+                
+                <div style="position:absolute">
+                    <button onclick = "traitement_zoom_pos()">+</button>
+                    <button onclick = "traitement_zoom_neg()">-</button>
+                </div>
+           </div>
+       </div>
+       </div>
+       
+       <div id = "box3">
+           <b><span id="titre2" onclick="openNav()">☰ Galerie d'images'</span></b>
+
+            <script src="galerie/jbcore/juicebox.js"></script>
+            <script>
+                new juicebox({
+                        baseUrl : 'galerie/',
+                        containerId: 'juicebox-container',
+                        galleryWidth: '100%',
+                        galleryHeight: '95%',
+                        backgroundColor: '#222222'
+                        });
+            </script>
+            <div id="juicebox-container"></div>
+
+       </div>
+    </div id="page_utile">
+<footer>
+<center>
+Projet d'application WEB<br>
+École Centrale de Lyon - 2016
+</center>
+</footer>
+</html>

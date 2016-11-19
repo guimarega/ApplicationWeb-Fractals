@@ -1,0 +1,215 @@
+body {
+	background-color: rgb(255,255,255);
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s
+}
+
+.sidenav a:hover, .offcanvas a:focus{
+    color: #f1f1f1;
+}
+
+a.info
+{
+	color :black;
+	background-color: transparent;
+	float:right;
+}
+
+a.info:hover
+{
+	color :black;
+        background-color: transparent;
+        font-weight: bold;
+}
+
+.closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px !important;
+    margin-left: 50px;
+}
+
+#main {
+    transition: margin-left .5s;
+    padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+
+#page_utile {
+	background-color: rgb(255,255,255);
+    margin: auto;
+    height: 2000px;
+    font-family: "Helvetica Neue",Arial,sans-serif;
+}
+
+#entete {
+	text-align: left;
+	height: auto;
+	width: 90%;
+	padding: 10px 0px 30px 0px;
+	font-size: 60px;
+	margin-top: 2px;
+	border-bottom: 1px solid black;
+	margin-left: 62px;
+}
+
+#sous_titre {
+	text-align: left;
+	font-size: 14px;
+}
+
+#titre {
+	text-align: left;
+	font-size: 20px;
+	padding: 0px 0px 10px 0px;
+	margin-left: 52px;
+	border-bottom: 1px solid black;
+    cursor:pointer;
+}
+
+
+#contenu {
+	text-align: right;
+	padding: 10px 7px 0 7px;
+	margin: auto;
+	font-family: "Helvetica Neue",Arial,sans-serif;
+	line-height: 200%;
+}
+
+
+#colonne{
+    text-align: center;
+    width: 40%;
+    padding: 10px 10px 10px 10px;
+    margin-top: 20px;
+    font-size: 14px;
+    float: right;
+}
+
+
+#parametrage {
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 24px;
+    width: 100%;
+    height: 160px;
+}
+
+
+#explication{
+	width: 48%;
+	margin-right: 62px;
+	padding: 40px 0px 0 0;
+	float: right;
+	text-align: justify;
+	font-size: 16px;
+}
+
+#affichage{
+	font-size: 14px;
+	margin-right: 32px;
+	text-align: center;
+	width: 400px;
+	float: right;
+}
+
+#theorie{
+	text-align: justify;
+	border-top: 0px solid black;
+	padding: 20px 0 0 0px;
+	height: 100px;
+	width: 85%;
+	margin-top: 20px;
+	margin-left: 62px;
+}
+
+#exemples{
+	text-align: center;
+	width: 27%;
+    padding-left: 50px;
+    padding-top: 10px;
+	margin-top: 60px;
+	margin-left: 0px;
+	font-size: 14px;
+	float: left;
+}
+
+#image_affichage
+{
+    border-style: solid;
+    border-width: medium;
+    width: 400px;
+    height: 400px;
+}
+
+#imagejulia
+{
+    padding-left: 300px;
+    float:right;
+    text-align: center;
+}
+
+#box1
+{
+    background-color: rgb(240,240,240);
+    margin-top: 5px;
+    padding-left: 12px;
+    padding-top: 10px;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+#box2
+{
+    background-color: rgb(240,240,240);
+    margin-top: 100px;
+    padding-left: 12px;
+    height: 405px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+#box3
+{
+    background-color: rgb(240,240,240);
+    margin-top: 100px;
+    height: 700px;
+    float:bottom;
+    box-shadow: 0 4px 10px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#titre2
+{
+    text-align: left;
+    font-size: 20px;
+    padding: 0px 0px 10px 0px;
+    margin-left: 10px;
+    border-bottom: 1px solid black;
+    cursor:pointer;
+}

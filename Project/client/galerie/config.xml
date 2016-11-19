@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+
+>
+  <image imageURL="images/600*600(-0.4+0.6j)_c=3_z=0.9.jpg"
+	thumbURL="thumbs/600*600(-0.4+0.6j)_c=3_z=0.9.jpg"
+	linkURL="images/600*600(-0.4+0.6j)_c=3_z=0.9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(-0.4+0.6j)_c=3_z=0.9.png">
+    <title><![CDATA[600*600(-0.4+0.6j)_c=3_z=0.9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(-0.4+0.6j)_c=3_z=5.jpg"
+	thumbURL="thumbs/600*600(-0.4+0.6j)_c=3_z=5.jpg"
+	linkURL="images/600*600(-0.4+0.6j)_c=3_z=5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(-0.4+0.6j)_c=3_z=5.png">
+    <title><![CDATA[600*600(-0.4+0.6j)_c=3_z=5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(-0.7+0.38j)_c=4_z=1.jpg"
+	thumbURL="thumbs/600*600(-0.7+0.38j)_c=4_z=1.jpg"
+	linkURL="images/600*600(-0.7+0.38j)_c=4_z=1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(-0.7+0.38j)_c=4_z=1.png">
+    <title><![CDATA[600*600(-0.7+0.38j)_c=4_z=1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(-0.8+0.156j)_c=1_z=1.jpg"
+	thumbURL="thumbs/600*600(-0.8+0.156j)_c=1_z=1.jpg"
+	linkURL="images/600*600(-0.8+0.156j)_c=1_z=1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(-0.8+0.156j)_c=1_z=1.png">
+    <title><![CDATA[600*600(-0.8+0.156j)_c=1_z=1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(-0.8+0.156j)_c=2_z=0.9.jpg"
+	thumbURL="thumbs/600*600(-0.8+0.156j)_c=2_z=0.9.jpg"
+	linkURL="images/600*600(-0.8+0.156j)_c=2_z=0.9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(-0.8+0.156j)_c=2_z=0.9.png">
+    <title><![CDATA[600*600(-0.8+0.156j)_c=2_z=0.9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(-0.67+0.209j)_c=2_z=0.9.jpg"
+	thumbURL="thumbs/600*600(-0.67+0.209j)_c=2_z=0.9.jpg"
+	linkURL="images/600*600(-0.67+0.209j)_c=2_z=0.9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(-0.67+0.209j)_c=2_z=0.9.png">
+    <title><![CDATA[600*600(-0.67+0.209j)_c=2_z=0.9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(-1+0j)_c=1_z=1.jpg"
+	thumbURL="thumbs/600*600(-1+0j)_c=1_z=1.jpg"
+	linkURL="images/600*600(-1+0j)_c=1_z=1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(-1+0j)_c=1_z=1.png">
+    <title><![CDATA[600*600(-1+0j)_c=1_z=1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(0.3+0.5j)_c=4_z=1.jpg"
+	thumbURL="thumbs/600*600(0.3+0.5j)_c=4_z=1.jpg"
+	linkURL="images/600*600(0.3+0.5j)_c=4_z=1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(0.3+0.5j)_c=4_z=1.png">
+    <title><![CDATA[600*600(0.3+0.5j)_c=4_z=1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(0.4+0.2j)_c=3_z=0.9.jpg"
+	thumbURL="thumbs/600*600(0.4+0.2j)_c=3_z=0.9.jpg"
+	linkURL="images/600*600(0.4+0.2j)_c=3_z=0.9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(0.4+0.2j)_c=3_z=0.9.png">
+    <title><![CDATA[600*600(0.4+0.2j)_c=3_z=0.9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(0.4+0.2j)_c=3_z=3.jpg"
+	thumbURL="thumbs/600*600(0.4+0.2j)_c=3_z=3.jpg"
+	linkURL="images/600*600(0.4+0.2j)_c=3_z=3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(0.4+0.2j)_c=3_z=3.png">
+    <title><![CDATA[600*600(0.4+0.2j)_c=3_z=3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(0.4+0.2j)_c=3_z=7.jpg"
+	thumbURL="thumbs/600*600(0.4+0.2j)_c=3_z=7.jpg"
+	linkURL="images/600*600(0.4+0.2j)_c=3_z=7.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(0.4+0.2j)_c=3_z=7.png">
+    <title><![CDATA[600*600(0.4+0.2j)_c=3_z=7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(0.4+0.2j)_c=3_z=10.jpg"
+	thumbURL="thumbs/600*600(0.4+0.2j)_c=3_z=10.jpg"
+	linkURL="images/600*600(0.4+0.2j)_c=3_z=10.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(0.4+0.2j)_c=3_z=10.png">
+    <title><![CDATA[600*600(0.4+0.2j)_c=3_z=10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(0.13+0.745j)_c=3_z=0.9.jpg"
+	thumbURL="thumbs/600*600(0.13+0.745j)_c=3_z=0.9.jpg"
+	linkURL="images/600*600(0.13+0.745j)_c=3_z=0.9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(0.13+0.745j)_c=3_z=0.9.png">
+    <title><![CDATA[600*600(0.13+0.745j)_c=3_z=0.9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(0.185+0.013j)_c=1_z=1.jpg"
+	thumbURL="thumbs/600*600(0.185+0.013j)_c=1_z=1.jpg"
+	linkURL="images/600*600(0.185+0.013j)_c=1_z=1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(0.185+0.013j)_c=1_z=1.png">
+    <title><![CDATA[600*600(0.185+0.013j)_c=1_z=1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(0.285+0.01j)_c=2_z=0.9.jpg"
+	thumbURL="thumbs/600*600(0.285+0.01j)_c=2_z=0.9.jpg"
+	linkURL="images/600*600(0.285+0.01j)_c=2_z=0.9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(0.285+0.01j)_c=2_z=0.9.png">
+    <title><![CDATA[600*600(0.285+0.01j)_c=2_z=0.9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*600(0.285+0.01j)_c=4_z=1.jpg"
+	thumbURL="thumbs/600*600(0.285+0.01j)_c=4_z=1.jpg"
+	linkURL="images/600*600(0.285+0.01j)_c=4_z=1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*600(0.285+0.01j)_c=4_z=1.png">
+    <title><![CDATA[600*600(0.285+0.01j)_c=4_z=1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/600*6000.8j_c=2_z=1.jpg"
+	thumbURL="thumbs/600*6000.8j_c=2_z=1.jpg"
+	linkURL="images/600*6000.8j_c=2_z=1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Marega/Desktop/Project/client/images_galerie/600*6000.8j_c=2_z=1.png">
+    <title><![CDATA[600*6000.8j_c=2_z=1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
